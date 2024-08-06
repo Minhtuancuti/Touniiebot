@@ -1,0 +1,42 @@
+[
+    {
+        "threadID": "7437605482960477",
+        "shortcuts": [
+            {
+                "id": "dlEFByUDIP.png",
+                "input": "Ngu",
+                "output": "🖕"
+            },
+            {
+                "id": "vVZjbWzByK.mp4",
+                "input": "😏",
+                "output": "😏😏😏"
+            }
+        ]
+    },
+    {
+        "threadID": "25467009839579160",
+        "shortcuts": [
+            {
+                "id": "QqWzOOvQLl.mp4",
+                "input": "Bot",
+                "output": "😏😏😏"
+            }
+        ]
+    },
+    {
+        "threadID": "8189245864438021",
+        "shortcuts": [
+            {
+                "id": "HvYWdBzOeP",
+                "input": "{name} là con chó",
+                "output": "random"
+            },
+            {
+                "id": "OzFrdUYFUz.mp4",
+                "input": "@Hạnh　Phúc　Có　Thể　Bỏ Rơi　Anh　Nhưng　Anh　Không Bao　Giờ　Bỏ　Rơi　Em",
+                "output": "{name} là con chó"
+            }
+        ]
+    }
+]
